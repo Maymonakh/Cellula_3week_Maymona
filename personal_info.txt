@@ -1,0 +1,162 @@
+PERSONAL INFORMATION
+
+Name: Maymona Khanfar
+Email: maymonakhanfar@gmail.com
+Phone: +(970) 59-295-3343
+Location: Jenin, Palestine
+GitHub: Available on CV
+LinkedIn: Available on CV
+
+
+EDUCATION
+
+Degree: B.S. in Computer Systems Engineering
+University: Palestine Technical University - Kadoorie
+Duration: Sep 2019 - Feb 2024
+
+
+GRADUATION PROJECT
+
+Project: Beauty Services Mobile Application
+
+Technologies:
+React Native, Expo, Redux, Node.js, Express.js, MongoDB
+
+Description:
+Developed a full-stack mobile application that enables users to book appointments, search for services, browse products, and receive notifications, with a strong focus on usability and seamless user experience.
+
+
+PROFESSIONAL EXPERIENCE
+
+DATA SCIENCE & MACHINE LEARNING TRAINEE
+
+Company: GGateaway X IBT Learning
+Location: Remote
+Duration: Jan 2026 - Apr 2026
+
+Responsibilities:
+- Applied data analysis and visualization techniques using Excel and Power BI to extract actionable insights.
+- Performed data preprocessing and exploratory data analysis (EDA) using Python.
+- Queried and managed datasets using SQL for efficient data retrieval and manipulation.
+- Built and evaluated machine learning models, including regression, classification, and clustering algorithms.
+- Explored deep learning architectures and implemented neural networks using modern frameworks.
+- Worked on Natural Language Processing (NLP) tasks, including text preprocessing and modeling.
+
+
+FRONTEND DEVELOPER INTERN
+
+Company: Foothill Technology Solutions, LLC.
+Location: Nablus, West Bank
+Work Arrangement: Remote
+Duration: Jul 2023 - Dec 2023
+
+Responsibilities:
+- Built dynamic web pages using JavaScript, TypeScript, React.js, Node.js, MongoDB, and RESTful APIs.
+- Applied unit testing using Jest.
+- Collaborated via Git/GitHub on real-world projects.
+
+
+FRONTEND DEVELOPER INTERN
+
+Company: ITG Software, Inc.
+Location: Nablus, West Bank
+Work Arrangement: Remote
+Duration: Jun 2023 - Aug 2023
+
+Responsibilities:
+- Designed static web pages using HTML, CSS, and JavaScript.
+- Focused on responsive design and clean code.
+
+
+COURSES
+
+REACT.JS & NEXT.JS COURSE
+
+Provider: Gaza Sky Geeks
+Location: Remote
+Duration: Nov 2024 - Jan 2025
+
+
+MARKET READY DEVELOPER PROGRAM
+
+Provider: Gaza Sky Geeks
+Location: Remote
+Duration: Jul 2024 - Oct 2024
+
+
+PROJECTS
+
+PREDICTING REMOTE WORK BURNOUT
+
+Technologies: Python, Scikit-learn
+Type: Data Science Project
+Organization: GGateaway X IBT Learning
+Links: Available on CV
+
+
+HUENEST - ONLINE HOME DECOR STORE
+
+Technologies: React.js, Material UI
+Type: Web App
+Organization: Sirius Team
+Link: Available on CV
+
+
+KINDO - KINDERGARTEN MANAGEMENT SYSTEM
+
+Technologies: React.js, Node.js, MongoDB
+Type: Web App
+Organization: Sirius Team
+Link: Available on CV
+
+
+CAKERYSTORE - ONLINE CAKE STORE
+
+Technologies: React.js, Material UI
+Type: Web App
+Organization: Sirius Team
+Link: Available on CV
+
+
+ARAB CODE ACADEMY - EDUCATIONAL PLATFORM
+
+Technologies: Next.js, Chakra UI
+Type: Web App
+Organization: Gaza Sky Geeks
+Link: Available on CV
+
+
+SAFAR - TRAVEL BOOKING PLATFORM
+
+Technologies: React.js, Material UI
+Type: Web App
+Organization: Foothill Internship
+GitHub: Available on CV
+
+
+TECHNICAL SKILLS
+
+PROGRAMMING AND DEVELOPMENT:
+HTML, CSS, JavaScript, TypeScript, React.js, React Native, Redux,
+Next.js, Node.js, Express.js, MongoDB, MySQL, RESTful APIs, Java, Python
+
+DATA AND ANALYTICS:
+Excel, Power BI
+
+TOOLS:
+Git, GitHub
+
+COMPUTER SCIENCE:
+Problem Solving, Design Patterns, Data Structures and Algorithms
+
+MACHINE LEARNING AND AI:
+Data Analysis, Data Visualization, Data Preprocessing,
+Exploratory Data Analysis (EDA), Regression, Classification,
+Clustering, Deep Learning, Neural Networks,
+Natural Language Processing (NLP), Text Preprocessing,
+Machine Learning Model Evaluation
+
+
+PERSONAL SKILLS
+
+Self-motivated, Flexible, Public Speaking, Self-learning
