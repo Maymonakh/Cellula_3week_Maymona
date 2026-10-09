@@ -1,4 +1,4 @@
-# Cellula Internship — 2 Week Tasks
+# Cellula Internship — 3 Week Tasks
 
 This repository contains my solutions for the tasks completed during my 3-week internship at **Cellula Technologies**.
 
